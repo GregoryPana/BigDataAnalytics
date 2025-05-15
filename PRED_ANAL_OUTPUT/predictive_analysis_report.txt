@@ -1,0 +1,91 @@
+
+Executive Summary
+=================
+Food Waste Predictive Analysis Report
+This report contains the results of three predictive analyses:
+1. Time Series Forecasting of Compost Production
+2. Compost Yield Prediction Model
+3. Collection Site Efficiency Classification
+
+Model Performance Metrics:
+Mean Absolute Error (MAE): 32.41 lbs
+Mean Squared Error (MSE): 1617.70 lbs²
+Root Mean Squared Error (RMSE): 40.22 lbs
+Mean Absolute Percentage Error (MAPE): nan%
+R-squared Score: -0.0244
+
+Forecast Results
+================
+Time Series Forecast Analysis
+Training Data Period: 2022-02-09 to 2025-02-28
+Forecast Period: Next 120 days
+
+Forecast Statistics:
+Average Daily Compost: 120.38 lbs
+Forecast Range: 106.72 - 120.63 lbs
+Standard Deviation: 1.47 lbs
+
+Model Performance:
+Mean Absolute Error: 32.41
+Mean Squared Error: 1617.70
+Root Mean Squared Error: 40.22
+
+Regression Model Performance Metrics:
+Mean Squared Error (MSE): 0.1097 lbs²
+Root Mean Squared Error (RMSE): 0.3312 lbs
+Mean Absolute Error (MAE): 0.1802 lbs
+Mean Absolute Percentage Error (MAPE): 0.3605%
+R-squared Score: 0.9998
+Explained Variance Score: 0.9999
+
+Model Performance
+=================
+Compost Yield Prediction Model
+Mean Squared Error: 0.11
+Mean Absolute Error: 0.18
+R-squared Score: 1.00
+
+Feature Importance:
+      feature  importance  cumulative_importance
+lbs_collected    0.999872               0.999872
+        month    0.000099               0.999970
+  day_of_week    0.000030               1.000000
+
+Site Analysis Results
+=====================
+Collection Site Efficiency Analysis
+
+Overall Efficiency Statistics:
+Average System Efficiency: 0.0999
+System Efficiency Range: 0.0820 - 0.1054
+
+Detailed Site Analysis:
+
+Site: Citizen's Convenience Center
+Efficiency Level: High
+Mean Efficiency: 0.0999 (±0.0006)
+Efficiency Range: 0.0973 - 0.1020
+Number of Collections: 454
+
+Site: Mills Park
+Efficiency Level: Low
+Mean Efficiency: 0.0999 (±0.0016)
+Efficiency Range: 0.0820 - 0.1054
+Number of Collections: 168
+
+Efficiency Classification Metrics:
+Accuracy: 1.0000
+Precision: 1.0000
+Recall: 1.0000
+F1 Score: 1.0000
+
+Confusion Matrix:
+True Negative: 1
+False Positive: 0
+False Negative: 0
+True Positive: 1
+
+Conclusion
+==========
+
+Analysis completed successfully.

@@ -1,0 +1,121 @@
+
+Executive Summary
+=================
+Food Waste Analysis Summary Report
+Total Waste Collected: 383,037.70 lbs
+Total Compost Created: 38,277.00 lbs
+Average Efficiency: 9.99%
+Number of Collection Sites: 2
+Date Range: 2022-02-09 00:00:00 to 2025-02-28 00:00:00
+
+Collection Volume Analysis
+==========================
+
+Monthly Collection Statistics:
+          lbs_collected                compost_created_lbs       compost_efficiency
+                   mean      sum count                mean   sum               mean
+month                                                                              
+January          631.55  27788.4    44               63.14  2778                0.1
+February         545.96  36579.6    67               54.60  3658                0.1
+March            565.18  28259.2    50               56.44  2822                0.1
+April            604.71  29630.8    49               60.39  2959                0.1
+May              618.39  33393.0    54               61.85  3340                0.1
+June             662.04  31777.8    48               66.12  3174                0.1
+July             625.56  33154.6    53               62.51  3313                0.1
+August           610.85  31764.0    52               61.06  3175                0.1
+September        570.46  28522.8    50               57.10  2855                0.1
+October          574.63  29881.0    52               57.42  2986                0.1
+November         692.98  35341.8    51               69.18  3528                0.1
+December         710.47  36944.7    52               70.94  3689                0.1
+
+Daily Patterns
+==============
+
+Daily Collection Statistics:
+            lbs_collected       compost_efficiency
+                     mean count               mean
+day_of_week                                       
+Monday             762.44   186                0.1
+Tuesday            745.79    18                0.1
+Wednesday          541.71   203                0.1
+Friday             543.91   210                0.1
+Saturday           722.24     5                0.1
+
+Efficiency Analysis
+===================
+
+Compost Efficiency by Collection Site:
+                             lbs_collected                compost_created_lbs         compost_efficiency       
+                                       sum     mean count                 sum    mean               mean    std
+stop_name                                                                                                      
+Citizen's Convenience Center      309837.5  682.461   454               30960  68.194                0.1  0.001
+Mills Park                         73200.2  435.715   168                7317  43.554                0.1  0.002
+
+High-Yield Locations:
+Threshold for high-yield classification: 873.30 lbs
+Number of high-yield sites: 1
+
+Citizen's Convenience Center:
+  Average Collection: 682.46 lbs
+  Total Collection: 309837.50 lbs
+  Efficiency: 10.00%
+
+Temporal Trends
+===============
+
+Monthly Time Series Analysis:
+                          lbs_collected  compost_created_lbs  compost_efficiency
+date_collection_datetime                                                        
+2022-02-28                       1822.4                  181            0.099341
+2022-03-31                       6094.6                  609            0.099927
+2022-04-30                       5476.8                  547            0.099871
+2022-05-31                       7620.2                  761            0.099859
+2022-06-30                       6926.4                  691            0.099785
+2022-07-31                       7884.4                  788            0.099940
+2022-08-31                       8967.2                  896            0.099869
+2022-09-30                       6661.2                  666            0.099892
+2022-10-31                       6907.2                  690            0.099992
+2022-11-30                       7049.2                  702            0.099549
+2022-12-31                       7813.4                  781            0.100040
+2023-01-31                       6861.8                  685            0.099858
+2023-02-28                       7225.6                  723            0.100145
+2023-03-31                       8334.4                  831            0.099674
+2023-04-30                       7704.0                  769            0.099765
+2023-05-31                       9143.2                  914            0.099993
+2023-06-30                       9731.0                  973            0.099977
+2023-07-31                      10734.8                 1072            0.099804
+2023-08-31                       8531.2                  852            0.099900
+2023-09-30                       8687.6                  870            0.100158
+2023-10-31                       8412.2                  840            0.099781
+2023-11-30                      10172.6                 1014            0.099612
+2023-12-31                      10140.7                 1012            0.099695
+2024-01-31                       6942.6                  694            0.099965
+2024-02-29                      11745.8                 1174            0.099335
+2024-03-31                      13830.2                 1382            0.099983
+2024-04-30                      16450.0                 1643            0.099807
+2024-05-31                      16629.6                 1665            0.100109
+2024-06-30                      15120.4                 1510            0.099829
+2024-07-31                      14535.4                 1453            0.100003
+2024-08-31                      14265.6                 1427            0.100069
+2024-09-30                      13174.0                 1319            0.100235
+2024-10-31                      14561.6                 1456            0.100023
+2024-11-30                      18120.0                 1812            0.099956
+2024-12-31                      18990.6                 1896            0.099780
+2025-01-31                      13984.0                 1399            0.100024
+2025-02-28                      15785.8                 1580            0.100169
+
+Yearly Growth Analysis:
+
+lbs_collected Yearly Growth Rates:
+year
+2022          NaN
+2023    44.325007
+2024    64.995538
+2025   -82.926812
+
+compost_created_lbs Yearly Growth Rates:
+year
+2022          NaN
+2023    44.351751
+2024    65.144481
+2025   -82.909758

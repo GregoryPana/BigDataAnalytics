@@ -1,0 +1,645 @@
+stop_name,date_collection_datetime,lbs_collected,compost_created_lbs
+Citizen's Convenience Center,11/2/2022,197,20
+Citizen's Convenience Center,1/4/2022,431.8,43
+Citizen's Convenience Center,2/5/2022,460.8,46
+Citizen's Convenience Center,4/5/2022,462.8,46
+Citizen's Convenience Center,20/5/2022,655.8,66
+Citizen's Convenience Center,8/6/2022,352.8,35
+Citizen's Convenience Center,10/6/2022,336.8,34
+Citizen's Convenience Center,13/6/2022,770.8,77
+Citizen's Convenience Center,24/6/2022,451.8,45
+Citizen's Convenience Center,6/7/2022,453.8,45
+Citizen's Convenience Center,11/7/2022,650.8,65
+Citizen's Convenience Center,12/8/2022,658.8,66
+Citizen's Convenience Center,31/8/2022,511.8,51
+Citizen's Convenience Center,16/9/2022,389.8,39
+Citizen's Convenience Center,19/9/2022,716.2,72
+Citizen's Convenience Center,5/10/2022,405.8,41
+Citizen's Convenience Center,24/10/2022,465.6,47
+Citizen's Convenience Center,31/10/2022,953.4,95
+Citizen's Convenience Center,2/11/2022,574.8,57
+Citizen's Convenience Center,9/11/2022,503.6,50
+Citizen's Convenience Center,21/12/2022,724.4,72
+Citizen's Convenience Center,30/12/2022,815.4,82
+Citizen's Convenience Center,3/1/2023,730.4,73
+Citizen's Convenience Center,11/1/2023,724.8,72
+Citizen's Convenience Center,20/1/2023,752.4,75
+Citizen's Convenience Center,10/2/2023,571.6,57
+Citizen's Convenience Center,3/3/2023,300.4,30
+Citizen's Convenience Center,8/3/2023,610.8,61
+Citizen's Convenience Center,13/3/2023,779.4,78
+Citizen's Convenience Center,22/3/2023,707.8,71
+Citizen's Convenience Center,10/4/2023,874.6,87
+Citizen's Convenience Center,26/4/2023,641.6,64
+Citizen's Convenience Center,3/5/2023,668.4,67
+Citizen's Convenience Center,26/5/2023,566.6,57
+Citizen's Convenience Center,30/5/2023,991.4,99
+Citizen's Convenience Center,31/5/2023,385.8,39
+Citizen's Convenience Center,14/6/2023,528.8,53
+Citizen's Convenience Center,19/6/2023,0,0
+Citizen's Convenience Center,26/6/2023,988.4,99
+Citizen's Convenience Center,5/7/2023,491.6,49
+Citizen's Convenience Center,7/7/2023,734.4,73
+Citizen's Convenience Center,10/7/2023,1104.4,110
+Citizen's Convenience Center,14/7/2023,948.4,95
+Citizen's Convenience Center,17/7/2023,998.4,100
+Citizen's Convenience Center,11/8/2023,584.8,58
+Citizen's Convenience Center,14/8/2023,739.4,74
+Citizen's Convenience Center,16/8/2023,439.6,44
+Citizen's Convenience Center,6/9/2023,542.4,54
+Citizen's Convenience Center,13/9/2023,445.8,45
+Citizen's Convenience Center,25/9/2023,557.4,56
+Citizen's Convenience Center,27/9/2023,679.8,68
+Citizen's Convenience Center,11/10/2023,531.4,53
+Citizen's Convenience Center,1/11/2023,636.4,64
+Citizen's Convenience Center,3/11/2023,612.6,61
+Citizen's Convenience Center,6/11/2023,533.4,53
+Citizen's Convenience Center,27/11/2023,1422.4,142
+Citizen's Convenience Center,20/12/2023,494.4,49
+Citizen's Convenience Center,22/12/2023,959.2,96
+Citizen's Convenience Center,29/12/2023,1197.8,120
+Citizen's Convenience Center,15/1/2024,0,0
+Citizen's Convenience Center,31/1/2024,636.4,64
+Citizen's Convenience Center,2/2/2024,556.6,56
+Citizen's Convenience Center,5/2/2024,815.8,82
+Mills Park,9/2/2024,181.4,18
+Citizen's Convenience Center,19/2/2024,943,94
+Citizen's Convenience Center,23/2/2024,703.8,70
+Mills Park,4/3/2024,344.8,34
+Citizen's Convenience Center,6/3/2024,746.8,75
+Mills Park,8/3/2024,673.8,67
+Mills Park,11/3/2024,399.8,40
+Mills Park,27/3/2024,279.8,28
+Citizen's Convenience Center,8/4/2024,1212.8,121
+Citizen's Convenience Center,15/4/2024,1181,118
+Mills Park,17/4/2024,363.8,36
+Citizen's Convenience Center,19/4/2024,712.4,71
+Mills Park,19/4/2024,321.8,32
+Citizen's Convenience Center,24/4/2024,698.4,70
+Mills Park,24/4/2024,274.8,27
+Mills Park,29/4/2024,716.8,72
+Citizen's Convenience Center,13/5/2024,1076,108
+Mills Park,17/5/2024,526.8,53
+Mills Park,22/5/2024,524.8,52
+Citizen's Convenience Center,24/5/2024,565.4,57
+Mills Park,24/5/2024,617.8,62
+Citizen's Convenience Center,29/5/2024,310.8,31
+Mills Park,29/5/2024,247.8,25
+Citizen's Convenience Center,12/6/2024,748.2,75
+Citizen's Convenience Center,17/6/2024,972.8,97
+Citizen's Convenience Center,21/6/2024,1036.8,104
+Mills Park,26/6/2024,532.8,53
+Citizen's Convenience Center,28/6/2024,609.4,61
+Citizen's Convenience Center,3/7/2024,534.2,53
+Mills Park,10/7/2024,434.8,43
+Mills Park,22/7/2024,395.8,40
+Mills Park,26/7/2024,368.8,37
+Mills Park,29/7/2024,805.8,81
+Citizen's Convenience Center,2/8/2024,604.4,60
+Mills Park,12/8/2024,404.8,40
+Mills Park,26/8/2024,516.8,52
+Mills Park,3/9/2024,730.8,73
+Mills Park,9/9/2024,372.8,37
+Mills Park,11/9/2024,300.8,30
+Mills Park,30/9/2024,328.8,33
+Citizen's Convenience Center,27/9/2024,345.8,35
+Citizen's Convenience Center,30/9/2024,1123,112
+Mills Park,2/10/2024,287.8,29
+Mills Park,30/10/2024,410.8,41
+Citizen's Convenience Center,7/10/2024,1174,117
+Citizen's Convenience Center,28/10/2024,1062.8,106
+Citizen's Convenience Center,8/11/2024,1178,118
+Mills Park,18/11/2024,562.8,56
+Mills Park,16/12/2024,663.6,66
+Mills Park,27/12/2024,645.8,65
+Mills Park,31/12/2024,463.8,46
+Mills Park,6/1/2025,705.6,71
+Mills Park,8/1/2025,449.8,45
+Mills Park,15/1/2025,359.8,36
+Mills Park,22/1/2025,630.8,63
+Mills Park,24/1/2025,248.8,25
+Mills Park,29/1/2025,482.8,48
+Mills Park,31/1/2025,343.8,34
+Citizen's Convenience Center,3/1/2025,475,48
+Citizen's Convenience Center,13/1/2025,965,97
+Citizen's Convenience Center,31/1/2025,581,58
+Citizen's Convenience Center,14/2/2025,392,39
+Mills Park,22/2/2025,517.8,52
+Mills Park,24/2/2025,478.8,48
+Citizen's Convenience Center,13/4/2022,536.8,54
+Citizen's Convenience Center,6/5/2022,541.8,54
+Citizen's Convenience Center,9/5/2022,624,62
+Citizen's Convenience Center,18/5/2022,718.8,72
+Citizen's Convenience Center,25/5/2022,581.8,58
+Citizen's Convenience Center,27/5/2022,535.4,54
+Citizen's Convenience Center,31/5/2022,503.8,50
+Citizen's Convenience Center,3/6/2022,672.8,67
+Citizen's Convenience Center,6/6/2022,672.8,67
+Citizen's Convenience Center,27/6/2022,680.8,68
+Citizen's Convenience Center,29/6/2022,574.8,57
+Citizen's Convenience Center,25/7/2022,799.8,80
+Citizen's Convenience Center,15/8/2022,561.8,56
+Citizen's Convenience Center,2/9/2022,535.8,54
+Citizen's Convenience Center,5/9/2022,0,0
+Citizen's Convenience Center,12/9/2022,977.8,98
+Citizen's Convenience Center,14/9/2022,464.8,46
+Citizen's Convenience Center,26/9/2022,562.4,56
+Citizen's Convenience Center,28/9/2022,372.6,37
+Citizen's Convenience Center,7/10/2022,454.8,45
+Citizen's Convenience Center,19/10/2022,373.6,37
+Citizen's Convenience Center,28/10/2022,713.6,71
+Citizen's Convenience Center,4/11/2022,537.6,54
+Citizen's Convenience Center,7/11/2022,643.4,64
+Citizen's Convenience Center,16/11/2022,504.8,50
+Citizen's Convenience Center,21/11/2022,537.4,54
+Citizen's Convenience Center,23/11/2022,504.8,50
+Citizen's Convenience Center,2/12/2022,760.4,76
+Citizen's Convenience Center,9/12/2022,500.6,50
+Citizen's Convenience Center,10/12/2022,205.8,21
+Citizen's Convenience Center,14/12/2022,694.4,69
+Citizen's Convenience Center,13/1/2023,297.4,30
+Citizen's Convenience Center,20/2/2023,1012.4,101
+Citizen's Convenience Center,24/2/2023,719.6,72
+Citizen's Convenience Center,1/3/2023,744.4,74
+Citizen's Convenience Center,17/3/2023,402.8,40
+Citizen's Convenience Center,29/3/2023,662.4,66
+Citizen's Convenience Center,5/4/2023,554.8,55
+Citizen's Convenience Center,17/4/2023,1098.4,110
+Citizen's Convenience Center,19/4/2023,386.6,39
+Citizen's Convenience Center,12/5/2023,727.4,73
+Citizen's Convenience Center,12/6/2023,1050.4,105
+Citizen's Convenience Center,23/6/2023,783.4,78
+Citizen's Convenience Center,12/7/2023,554.8,55
+Citizen's Convenience Center,21/7/2023,790.8,79
+Citizen's Convenience Center,24/7/2023,904.4,90
+Citizen's Convenience Center,26/7/2023,580.4,58
+Citizen's Convenience Center,9/8/2023,834.6,83
+Citizen's Convenience Center,21/8/2023,817.4,82
+Citizen's Convenience Center,28/8/2023,693.4,69
+Citizen's Convenience Center,1/9/2023,591.6,59
+Citizen's Convenience Center,5/9/2023,1257.4,126
+Citizen's Convenience Center,18/9/2023,556.4,56
+Citizen's Convenience Center,13/10/2023,614.6,61
+Citizen's Convenience Center,25/10/2023,641.4,64
+Citizen's Convenience Center,20/11/2023,823,82
+Citizen's Convenience Center,8/12/2023,693.6,69
+Citizen's Convenience Center,26/12/2023,1020,102
+Citizen's Convenience Center,2/1/2024,1490.8,149
+Citizen's Convenience Center,5/1/2024,615.6,62
+Citizen's Convenience Center,19/1/2024,891,89
+Mills Park,31/1/2024,0,0
+Citizen's Convenience Center,7/2/2024,660.4,66
+Citizen's Convenience Center,12/2/2024,1017.8,102
+Mills Park,14/2/2024,432.8,43
+Citizen's Convenience Center,21/2/2024,838.6,84
+Mills Park,23/2/2024,449.8,45
+Mills Park,28/2/2024,24.4,2
+Citizen's Convenience Center,1/3/2024,698.6,70
+Citizen's Convenience Center,4/3/2024,895.2,90
+Citizen's Convenience Center,13/3/2024,571.2,57
+Mills Park,15/3/2024,285.8,29
+Citizen's Convenience Center,10/4/2024,805.4,81
+Citizen's Convenience Center,12/4/2024,271.8,27
+Mills Park,22/4/2024,534.8,53
+Citizen's Convenience Center,26/4/2024,677.8,68
+Citizen's Convenience Center,29/4/2024,1184.8,118
+Mills Park,8/5/2024,430.8,43
+Mills Park,10/5/2024,579.8,58
+Citizen's Convenience Center,17/5/2024,108.4,11
+Citizen's Convenience Center,19/6/2024,0,0
+Citizen's Convenience Center,1/7/2024,970.2,97
+Citizen's Convenience Center,5/7/2024,581.4,58
+Mills Park,12/7/2024,371.6,37
+Mills Park,15/7/2024,340.8,34
+Citizen's Convenience Center,22/7/2024,1000.2,100
+Mills Park,31/7/2024,315.8,32
+Mills Park,9/8/2024,159.8,16
+Citizen's Convenience Center,14/8/2024,621.2,62
+Mills Park,16/8/2024,390.8,39
+Citizen's Convenience Center,30/8/2024,826,83
+Mills Park,13/9/2024,305.8,31
+Mills Park,20/9/2024,255.8,26
+Mills Park,25/9/2024,304.8,30
+Citizen's Convenience Center,3/9/2024,1162.2,116
+Citizen's Convenience Center,6/9/2024,601.6,60
+Citizen's Convenience Center,11/9/2024,598.4,60
+Citizen's Convenience Center,20/9/2024,487.6,49
+Citizen's Convenience Center,30/10/2024,386.6,39
+Citizen's Convenience Center,1/11/2024,867,87
+Citizen's Convenience Center,4/11/2024,1162.8,116
+Citizen's Convenience Center,26/11/2024,571.8,57
+Citizen's Convenience Center,2/12/2024,1430.8,143
+Citizen's Convenience Center,9/12/2024,1307.8,131
+Citizen's Convenience Center,27/12/2024,570.4,57
+Mills Park,11/11/2024,593.8,59
+Mills Park,9/12/2024,691.8,69
+Mills Park,11/12/2024,493.8,49
+Mills Park,23/12/2024,513.8,51
+Mills Park,3/1/2025,364.8,36
+Mills Park,27/1/2025,605.4,61
+Citizen's Convenience Center,8/1/2025,574.2,57
+Citizen's Convenience Center,15/1/2025,750.2,75
+Citizen's Convenience Center,24/1/2025,872,87
+Citizen's Convenience Center,7/2/2025,478,48
+Citizen's Convenience Center,26/2/2025,1151.2,115
+Citizen's Convenience Center,28/2/2025,631.6,63
+Mills Park,5/2/2025,516.8,52
+Mills Park,28/2/2025,305.8,31
+Citizen's Convenience Center,21/2/2022,183.8,18
+Citizen's Convenience Center,23/2/2022,283,28
+Citizen's Convenience Center,25/2/2022,250.8,25
+Citizen's Convenience Center,4/3/2022,246.8,25
+Citizen's Convenience Center,4/4/2022,649.2,65
+Citizen's Convenience Center,15/4/2022,200.8,20
+Citizen's Convenience Center,11/5/2022,488.8,49
+Citizen's Convenience Center,16/5/2022,724.8,72
+Citizen's Convenience Center,22/6/2022,511.8,51
+Citizen's Convenience Center,1/7/2022,698.8,70
+Citizen's Convenience Center,5/7/2022,548.8,55
+Citizen's Convenience Center,8/7/2022,766.8,77
+Citizen's Convenience Center,13/7/2022,684.8,68
+Citizen's Convenience Center,20/7/2022,504.8,50
+Citizen's Convenience Center,27/7/2022,624.8,62
+Citizen's Convenience Center,1/8/2022,663.8,66
+Citizen's Convenience Center,8/8/2022,483.8,48
+Citizen's Convenience Center,19/8/2022,699.8,70
+Citizen's Convenience Center,22/8/2022,789.8,79
+Citizen's Convenience Center,7/9/2022,494.8,49
+Citizen's Convenience Center,9/9/2022,709.8,71
+Citizen's Convenience Center,21/9/2022,384.8,38
+Citizen's Convenience Center,23/9/2022,495.8,50
+Citizen's Convenience Center,30/9/2022,556.6,56
+Citizen's Convenience Center,3/10/2022,511.8,51
+Citizen's Convenience Center,11/11/2022,0,0
+Citizen's Convenience Center,18/11/2022,713.6,71
+Citizen's Convenience Center,25/11/2022,364.6,36
+Citizen's Convenience Center,28/11/2022,844.4,84
+Citizen's Convenience Center,12/12/2022,233.6,23
+Citizen's Convenience Center,19/12/2022,654.4,65
+Citizen's Convenience Center,23/12/2022,619.4,62
+Citizen's Convenience Center,16/1/2023,0,0
+Citizen's Convenience Center,6/2/2023,804.4,80
+Citizen's Convenience Center,8/2/2023,626.8,63
+Citizen's Convenience Center,15/2/2023,536.8,54
+Citizen's Convenience Center,10/3/2023,670.6,67
+Citizen's Convenience Center,15/3/2023,573.6,57
+Citizen's Convenience Center,27/3/2023,642.4,64
+Citizen's Convenience Center,31/3/2023,598.4,60
+Citizen's Convenience Center,3/4/2023,661.4,66
+Citizen's Convenience Center,24/4/2023,634.4,63
+Citizen's Convenience Center,28/4/2023,374.8,37
+Citizen's Convenience Center,1/5/2023,908.4,91
+Citizen's Convenience Center,10/5/2023,541.6,54
+Citizen's Convenience Center,24/5/2023,733.6,73
+Citizen's Convenience Center,2/6/2023,693,69
+Citizen's Convenience Center,16/6/2023,656.8,66
+Citizen's Convenience Center,21/6/2023,1007.4,101
+Citizen's Convenience Center,28/6/2023,763.6,76
+Citizen's Convenience Center,3/7/2023,1080.4,108
+Citizen's Convenience Center,31/7/2023,1227.4,123
+Citizen's Convenience Center,2/8/2023,466.8,47
+Citizen's Convenience Center,7/8/2023,724.4,72
+Citizen's Convenience Center,25/8/2023,732.8,73
+Citizen's Convenience Center,30/8/2023,535.8,54
+Citizen's Convenience Center,8/9/2023,531.6,53
+Citizen's Convenience Center,11/9/2023,1109.4,111
+Citizen's Convenience Center,15/9/2023,704.6,70
+Citizen's Convenience Center,4/10/2023,422.8,42
+Citizen's Convenience Center,9/10/2023,411.4,41
+Citizen's Convenience Center,16/10/2023,645.6,65
+Citizen's Convenience Center,18/10/2023,559.4,56
+Citizen's Convenience Center,23/10/2023,798.4,80
+Citizen's Convenience Center,10/11/2023,773.4,77
+Citizen's Convenience Center,13/11/2023,914.6,91
+Citizen's Convenience Center,1/12/2023,890,89
+Citizen's Convenience Center,6/12/2023,563.7,56
+Citizen's Convenience Center,13/12/2023,564.4,56
+Citizen's Convenience Center,15/12/2023,604.4,60
+Citizen's Convenience Center,17/1/2024,2057,206
+Citizen's Convenience Center,22/1/2024,1019,102
+Mills Park,7/2/2024,207,21
+Citizen's Convenience Center,16/2/2024,596.6,60
+Mills Park,19/2/2024,282.8,28
+Mills Park,1/3/2024,461.8,46
+Citizen's Convenience Center,8/3/2024,779.8,78
+Citizen's Convenience Center,18/3/2024,1024.8,102
+Mills Park,18/3/2024,615.8,62
+Citizen's Convenience Center,20/3/2024,1034.6,103
+Citizen's Convenience Center,22/3/2024,983.8,98
+Mills Park,22/3/2024,318.8,32
+Mills Park,1/4/2024,556.8,56
+Mills Park,3/4/2024,506.8,51
+Mills Park,15/4/2024,714.8,71
+Citizen's Convenience Center,22/4/2024,1175.8,118
+Mills Park,15/5/2024,271.8,27
+Mills Park,31/5/2024,548.8,55
+Citizen's Convenience Center,3/6/2024,1344.8,134
+Mills Park,5/6/2024,234.8,23
+Mills Park,7/6/2024,448.8,45
+Citizen's Convenience Center,14/6/2024,647.2,65
+Mills Park,17/6/2024,350.8,35
+Mills Park,21/6/2024,290.8,29
+Citizen's Convenience Center,26/6/2024,788,79
+Mills Park,28/6/2024,362.8,36
+Mills Park,3/7/2024,328.8,33
+Citizen's Convenience Center,15/7/2024,1062.6,106
+Citizen's Convenience Center,19/7/2024,428.8,43
+Mills Park,24/7/2024,248.8,25
+Mills Park,2/8/2024,343.8,34
+Citizen's Convenience Center,5/8/2024,1114.8,111
+Mills Park,5/8/2024,553.8,55
+Citizen's Convenience Center,12/8/2024,799,80
+Mills Park,14/8/2024,248.8,25
+Citizen's Convenience Center,16/8/2024,645.2,65
+Citizen's Convenience Center,21/8/2024,953.2,95
+Citizen's Convenience Center,26/8/2024,1487,149
+Mills Park,6/9/2024,295.8,30
+Mills Park,18/9/2024,179.8,18
+Mills Park,27/9/2024,286.8,29
+Citizen's Convenience Center,4/9/2024,362.6,36
+Citizen's Convenience Center,18/9/2024,455.6,46
+Mills Park,4/10/2024,354.8,35
+Mills Park,9/10/2024,308.8,31
+Mills Park,11/10/2024,267.8,27
+Mills Park,14/10/2024,464.8,46
+Mills Park,18/10/2024,427,43
+Mills Park,23/10/2024,538.8,54
+Citizen's Convenience Center,2/10/2024,754.2,75
+Citizen's Convenience Center,4/10/2024,527,53
+Citizen's Convenience Center,9/10/2024,760.4,76
+Citizen's Convenience Center,11/10/2024,333.6,33
+Citizen's Convenience Center,21/10/2024,1073.2,107
+Citizen's Convenience Center,23/10/2024,532.8,53
+Citizen's Convenience Center,13/11/2024,606.4,61
+Citizen's Convenience Center,18/11/2024,1217.8,122
+Citizen's Convenience Center,20/11/2024,693.2,69
+Citizen's Convenience Center,30/11/2024,1181.8,118
+Citizen's Convenience Center,11/12/2024,804.6,80
+Citizen's Convenience Center,20/12/2024,685.6,69
+Mills Park,4/11/2024,573.8,57
+Mills Park,15/11/2024,334.8,33
+Mills Park,20/11/2024,369.8,37
+Mills Park,25/11/2024,397.8,40
+Mills Park,6/12/2024,593.8,59
+Mills Park,18/12/2024,337.6,34
+Citizen's Convenience Center,17/1/2025,680,68
+Citizen's Convenience Center,27/1/2025,1958.8,196
+Citizen's Convenience Center,3/2/2025,1294.8,129
+Citizen's Convenience Center,10/2/2025,1256.8,126
+Citizen's Convenience Center,19/2/2025,887.2,89
+Citizen's Convenience Center,24/2/2025,708.2,71
+Mills Park,7/2/2025,427,43
+Mills Park,12/2/2025,289.6,29
+Mills Park,17/2/2025,671.8,67
+Citizen's Convenience Center,9/2/2022,59,6
+Citizen's Convenience Center,14/2/2022,329.4,33
+Citizen's Convenience Center,16/2/2022,102.8,10
+Citizen's Convenience Center,7/3/2022,531.2,53
+Citizen's Convenience Center,9/3/2022,352.8,35
+Citizen's Convenience Center,11/3/2022,309.4,31
+Citizen's Convenience Center,21/3/2022,601.2,60
+Citizen's Convenience Center,23/3/2022,481.8,48
+Citizen's Convenience Center,30/3/2022,610.8,61
+Citizen's Convenience Center,6/4/2022,280.8,28
+Citizen's Convenience Center,8/4/2022,327,33
+Citizen's Convenience Center,11/4/2022,429.2,43
+Citizen's Convenience Center,20/4/2022,381.8,38
+Citizen's Convenience Center,22/4/2022,392.8,39
+Citizen's Convenience Center,25/4/2022,502.8,50
+Citizen's Convenience Center,13/5/2022,644.8,64
+Citizen's Convenience Center,23/5/2022,676.8,68
+Citizen's Convenience Center,15/6/2022,479.8,48
+Citizen's Convenience Center,17/6/2022,399.8,40
+Citizen's Convenience Center,21/6/2022,609.8,61
+Citizen's Convenience Center,18/7/2022,807.8,81
+Citizen's Convenience Center,22/7/2022,597.8,60
+Citizen's Convenience Center,29/7/2022,318.8,32
+Citizen's Convenience Center,17/8/2022,690.8,69
+Citizen's Convenience Center,26/8/2022,655.8,66
+Citizen's Convenience Center,29/8/2022,631.8,63
+Citizen's Convenience Center,17/10/2022,663.4,66
+Citizen's Convenience Center,6/1/2023,968.6,97
+Citizen's Convenience Center,23/1/2023,627.4,63
+Citizen's Convenience Center,25/1/2023,573.6,57
+Citizen's Convenience Center,1/2/2023,466.8,47
+Citizen's Convenience Center,3/2/2023,396.8,40
+Citizen's Convenience Center,13/2/2023,578.4,58
+Citizen's Convenience Center,27/2/2023,754.4,75
+Citizen's Convenience Center,6/3/2023,542.4,54
+Citizen's Convenience Center,5/5/2023,782.4,78
+Citizen's Convenience Center,8/5/2023,732,73
+Citizen's Convenience Center,17/5/2023,673.6,67
+Citizen's Convenience Center,22/5/2023,979.4,98
+Citizen's Convenience Center,7/6/2023,720.8,72
+Citizen's Convenience Center,9/6/2023,701.4,70
+Citizen's Convenience Center,30/6/2023,820.6,82
+Citizen's Convenience Center,4/8/2023,748.6,75
+Citizen's Convenience Center,23/8/2023,600.8,60
+Citizen's Convenience Center,27/10/2023,474.6,47
+Citizen's Convenience Center,30/10/2023,733.4,73
+Citizen's Convenience Center,22/11/2023,669.4,67
+Citizen's Convenience Center,4/12/2023,1411,141
+Citizen's Convenience Center,11/12/2023,908,91
+Citizen's Convenience Center,18/12/2023,834.2,83
+Citizen's Convenience Center,3/1/2024,430.8,43
+Citizen's Convenience Center,12/1/2024,669.2,67
+Citizen's Convenience Center,24/1/2024,492.6,49
+Citizen's Convenience Center,26/1/2024,540.6,54
+Citizen's Convenience Center,29/1/2024,1465.8,147
+Mills Park,5/2/2024,171.8,17
+Citizen's Convenience Center,9/2/2024,558.8,56
+Mills Park,16/2/2024,294.4,29
+Mills Park,26/2/2024,664.8,66
+Citizen's Convenience Center,28/2/2024,1005.6,101
+Citizen's Convenience Center,15/3/2024,992,99
+Citizen's Convenience Center,3/4/2024,513.2,51
+Mills Park,5/4/2024,651.8,65
+Mills Park,10/4/2024,248.8,25
+Citizen's Convenience Center,1/5/2024,655.6,66
+Mills Park,1/5/2024,242.8,24
+Citizen's Convenience Center,3/5/2024,543.8,54
+Mills Park,3/5/2024,510.8,51
+Mills Park,6/5/2024,555.8,56
+Mills Park,13/5/2024,629.8,63
+Citizen's Convenience Center,15/5/2024,627.8,63
+Mills Park,20/5/2024,604.8,60
+Citizen's Convenience Center,22/5/2024,654.4,65
+Citizen's Convenience Center,28/5/2024,986.8,99
+Citizen's Convenience Center,31/5/2024,869.6,87
+Citizen's Convenience Center,5/6/2024,604.4,60
+Citizen's Convenience Center,7/6/2024,654.4,65
+Citizen's Convenience Center,10/6/2024,1044,104
+Mills Park,10/6/2024,642.8,64
+Citizen's Convenience Center,24/6/2024,1107.8,111
+Mills Park,24/6/2024,643.8,64
+Citizen's Convenience Center,8/7/2024,703.2,70
+Mills Park,8/7/2024,478.8,48
+Citizen's Convenience Center,10/7/2024,809.2,81
+Citizen's Convenience Center,12/7/2024,171,17
+Mills Park,19/7/2024,418.8,42
+Citizen's Convenience Center,24/7/2024,733,73
+Citizen's Convenience Center,31/7/2024,629.2,63
+Citizen's Convenience Center,7/8/2024,565.6,57
+Citizen's Convenience Center,9/8/2024,587.6,59
+Mills Park,19/8/2024,538.8,54
+Mills Park,23/8/2024,311.8,31
+Mills Park,30/8/2024,249.8,25
+Mills Park,23/9/2024,580.8,58
+Citizen's Convenience Center,9/9/2024,1827.2,183
+Citizen's Convenience Center,23/9/2024,1026,103
+Citizen's Convenience Center,25/9/2024,793.2,79
+Mills Park,7/10/2024,679.8,68
+Mills Park,16/10/2024,340.8,34
+Mills Park,28/10/2024,313.6,31
+Citizen's Convenience Center,16/10/2024,505.6,51
+Citizen's Convenience Center,18/10/2024,619,62
+Citizen's Convenience Center,25/10/2024,717,72
+Citizen's Convenience Center,6/11/2024,803,80
+Citizen's Convenience Center,15/11/2024,867,87
+Citizen's Convenience Center,25/11/2024,1268.8,127
+Citizen's Convenience Center,6/12/2024,602.2,60
+Citizen's Convenience Center,18/12/2024,584.2,58
+Citizen's Convenience Center,23/12/2024,1370.8,137
+Citizen's Convenience Center,24/12/2024,572.4,57
+Citizen's Convenience Center,30/12/2024,1489,149
+Mills Park,13/11/2024,400.8,40
+Mills Park,26/11/2024,338.8,34
+Mills Park,2/12/2024,848.8,85
+Mills Park,13/12/2024,273.6,27
+Mills Park,13/1/2025,689.8,69
+Mills Park,17/1/2025,316.8,32
+Mills Park,20/1/2025,521.8,52
+Citizen's Convenience Center,6/1/2025,1330.8,133
+Citizen's Convenience Center,20/1/2025,0,0
+Citizen's Convenience Center,22/1/2025,0,0
+Citizen's Convenience Center,22/2/2025,930,93
+Mills Park,10/2/2025,574.8,57
+Mills Park,19/2/2025,528.6,53
+Mills Park,26/2/2025,501.8,50
+Citizen's Convenience Center,2/2/2022,0,0
+Citizen's Convenience Center,18/2/2022,202.8,20
+Citizen's Convenience Center,28/2/2022,213.8,21
+Citizen's Convenience Center,2/3/2022,298.8,30
+Citizen's Convenience Center,14/3/2022,659.2,66
+Citizen's Convenience Center,16/3/2022,481.8,48
+Citizen's Convenience Center,18/3/2022,303.8,30
+Citizen's Convenience Center,25/3/2022,359.8,36
+Citizen's Convenience Center,28/3/2022,857.2,86
+Citizen's Convenience Center,18/4/2022,330.2,33
+Citizen's Convenience Center,27/4/2022,593.8,59
+Citizen's Convenience Center,29/4/2022,419.8,42
+Citizen's Convenience Center,1/6/2022,411.8,41
+Citizen's Convenience Center,15/7/2022,426.8,43
+Citizen's Convenience Center,3/8/2022,531.8,53
+Citizen's Convenience Center,5/8/2022,539.8,54
+Citizen's Convenience Center,10/8/2022,1065.8,107
+Citizen's Convenience Center,24/8/2022,481.8,48
+Citizen's Convenience Center,10/10/2022,653.4,65
+Citizen's Convenience Center,12/10/2022,385.8,39
+Citizen's Convenience Center,14/10/2022,469.6,47
+Citizen's Convenience Center,21/10/2022,480.8,48
+Citizen's Convenience Center,26/10/2022,375.6,38
+Citizen's Convenience Center,14/11/2022,633.4,63
+Citizen's Convenience Center,30/11/2022,686.8,69
+Citizen's Convenience Center,5/12/2022,834.4,83
+Citizen's Convenience Center,16/12/2022,357.6,36
+Citizen's Convenience Center,27/12/2022,987.4,99
+Citizen's Convenience Center,28/12/2022,425.6,43
+Citizen's Convenience Center,4/1/2023,526.8,53
+Citizen's Convenience Center,9/1/2023,534.4,53
+Citizen's Convenience Center,27/1/2023,483.6,48
+Citizen's Convenience Center,30/1/2023,642.4,64
+Citizen's Convenience Center,17/2/2023,757.6,76
+Citizen's Convenience Center,20/3/2023,694.4,69
+Citizen's Convenience Center,24/3/2023,404.6,40
+Citizen's Convenience Center,12/4/2023,985.4,99
+Citizen's Convenience Center,14/4/2023,719.6,72
+Citizen's Convenience Center,21/4/2023,772.4,77
+Citizen's Convenience Center,19/5/2023,452.6,45
+Citizen's Convenience Center,5/6/2023,1016.4,102
+Citizen's Convenience Center,19/7/2023,856.6,86
+Citizen's Convenience Center,28/7/2023,462.8,46
+Citizen's Convenience Center,18/8/2023,612.8,61
+Citizen's Convenience Center,20/9/2023,359.6,36
+Citizen's Convenience Center,22/9/2023,755.8,76
+Citizen's Convenience Center,29/9/2023,595.8,60
+Citizen's Convenience Center,2/10/2023,1316,132
+Citizen's Convenience Center,6/10/2023,732.4,73
+Citizen's Convenience Center,20/10/2023,530.8,53
+Citizen's Convenience Center,8/11/2023,683.4,68
+Citizen's Convenience Center,15/11/2023,863.4,86
+Citizen's Convenience Center,17/11/2023,593.4,59
+Citizen's Convenience Center,24/11/2023,294.4,29
+Citizen's Convenience Center,29/11/2023,1352.8,135
+Citizen's Convenience Center,8/1/2024,1104.8,110
+Citizen's Convenience Center,10/1/2024,542.6,54
+Mills Park,2/2/2024,66.4,7
+Mills Park,12/2/2024,301.8,30
+Citizen's Convenience Center,14/2/2024,654.4,65
+Mills Park,21/2/2024,317,32
+Citizen's Convenience Center,26/2/2024,1446.8,145
+Mills Park,6/3/2024,248.8,25
+Citizen's Convenience Center,11/3/2024,1533.8,153
+Mills Park,13/3/2024,267.8,27
+Mills Park,20/3/2024,466.8,47
+Citizen's Convenience Center,25/3/2024,1460,146
+Mills Park,25/3/2024,703.8,70
+Citizen's Convenience Center,27/3/2024,914.4,91
+Mills Park,29/3/2024,121.4,12
+Citizen's Convenience Center,1/4/2024,1614.8,161
+Citizen's Convenience Center,5/4/2024,1052.8,105
+Mills Park,8/4/2024,518.8,52
+Mills Park,12/4/2024,341.8,34
+Citizen's Convenience Center,17/4/2024,579.4,58
+Mills Park,26/4/2024,632.8,63
+Citizen's Convenience Center,6/5/2024,1147,115
+Citizen's Convenience Center,8/5/2024,578.4,58
+Citizen's Convenience Center,10/5/2024,526.4,53
+Citizen's Convenience Center,20/5/2024,928,93
+Mills Park,28/5/2024,758.8,76
+Mills Park,3/6/2024,734.8,73
+Mills Park,12/6/2024,466.8,47
+Mills Park,14/6/2024,457.8,46
+Mills Park,19/6/2024,395.8,40
+Mills Park,1/7/2024,534.8,53
+Mills Park,5/7/2024,471.8,47
+Citizen's Convenience Center,17/7/2024,518.8,52
+Mills Park,17/7/2024,337.8,34
+Citizen's Convenience Center,26/7/2024,540.6,54
+Citizen's Convenience Center,29/7/2024,1519,152
+Mills Park,7/8/2024,527.8,53
+Citizen's Convenience Center,19/8/2024,1267.8,127
+Mills Park,21/8/2024,305.8,31
+Citizen's Convenience Center,23/8/2024,476.6,48
+Citizen's Convenience Center,28/8/2024,983.8,98
+Mills Park,28/8/2024,267.8,27
+Mills Park,4/9/2024,295.8,30
+Mills Park,16/9/2024,481.8,48
+Citizen's Convenience Center,13/9/2024,430.6,43
+Citizen's Convenience Center,16/9/2024,1067,107
+Mills Park,21/10/2024,428.8,43
+Mills Park,25/10/2024,296.8,30
+Citizen's Convenience Center,14/10/2024,995,100
+Citizen's Convenience Center,11/11/2024,541,54
+Citizen's Convenience Center,22/11/2024,1156,116
+Citizen's Convenience Center,4/12/2024,1111.8,111
+Citizen's Convenience Center,13/12/2024,614.4,61
+Citizen's Convenience Center,16/12/2024,1107.8,111
+Citizen's Convenience Center,31/12/2024,653.2,65
+Citizen's Convenience Center,1/11/2024,481.8,48
+Mills Park,6/11/2024,505.8,51
+Mills Park,8/11/2024,313.8,31
+Mills Park,22/11/2024,355.8,36
+Mills Park,30/11/2024,775.8,78
+Mills Park,4/12/2024,551.8,55
+Mills Park,20/12/2024,370.8,37
+Mills Park,24/12/2024,536.6,54
+Mills Park,30/12/2024,589,59
+Mills Park,10/1/2025,617.6,62
+Citizen's Convenience Center,10/1/2025,919,92
+Citizen's Convenience Center,29/1/2025,499.2,50
+Citizen's Convenience Center,5/2/2025,652.4,65
+Citizen's Convenience Center,12/2/2025,676.2,68
+Citizen's Convenience Center,17/2/2025,1058.8,106
+Mills Park,3/2/2025,569.8,57
+Mills Park,14/2/2025,286,29

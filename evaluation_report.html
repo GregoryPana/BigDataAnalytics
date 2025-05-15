@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Food Waste Analysis - Model Evaluation Report</title>
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 0; padding: 20px; color: #333; }
+        h1 { color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 10px; }
+        h2 { color: #2980b9; margin-top: 30px; border-bottom: 1px solid #ddd; padding-bottom: 5px; }
+        h3 { color: #3498db; }
+        .container { max-width: 1200px; margin: 0 auto; }
+        .metric { background-color: #f8f9fa; padding: 15px; border-radius: 5px; margin-bottom: 20px; }
+        .metric h3 { margin-top: 0; }
+        .metric-value { font-weight: bold; color: #2c3e50; }
+        .visualization { margin: 20px 0; text-align: center; }
+        .visualization img { max-width: 100%; border: 1px solid #ddd; border-radius: 5px; }
+        .interpretation { background-color: #e8f4f8; padding: 15px; border-left: 4px solid #3498db; margin: 20px 0; }
+        table { border-collapse: collapse; width: 100%; margin: 20px 0; }
+        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+        th { background-color: #f2f2f2; }
+        tr:nth-child(even) { background-color: #f9f9f9; }
+        .conclusion { background-color: #f0f7fb; padding: 20px; border-radius: 5px; margin-top: 30px; }
+        .footer { margin-top: 50px; text-align: center; font-size: 0.9em; color: #7f8c8d; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Food Waste Analysis - Model Evaluation Report</h1>
+        <p>Generated on: 2025-05-15 19:08:55</p>
+        <div class="interpretation">
+            <p>This report presents a comprehensive evaluation of the predictive models developed for the food waste analysis project. The evaluation includes time series forecasting, regression analysis for yield prediction, and classification for efficiency categorization. The report includes performance metrics, visualizations, and interpretations to support decision-making and planning.</p>
+        </div>
+        <h2>1. Time Series Forecasting Evaluation</h2>
+        <div class="metric">
+            <h3>Performance Metrics</h3>
+            <table>
+                <tr><th>Metric</th><th>Value</th><th>Interpretation</th></tr>
+                <tr><td>Mean Absolute Error (MAE)</td><td class="metric-value">20.6615</td><td>Average absolute difference between predicted and actual values in pounds.</td></tr>
+                <tr><td>Mean Squared Error (MSE)</td><td class="metric-value">612.3347</td><td>Average squared difference between predicted and actual values, emphasizing larger errors.</td></tr>
+                <tr><td>Root Mean Squared Error (RMSE)</td><td class="metric-value">24.7454</td><td>Square root of MSE, providing an error measure in the same units as the data (pounds).</td></tr>
+            </table>
+        </div>
+        <div class="visualization">
+            <h3>ARIMA Parameter Comparison</h3>
+            <p>ARIMA parameter comparison visualization not available.</p>
+        </div>
+        <div class="visualization">
+            <h3>Forecast vs Actual Values</h3>
+            <img src="forecast_vs_actual.png" alt="Forecast vs Actual Values">
+            <p>Comparison of forecasted values against actual values over time, showing the model's predictive accuracy.</p>
+        </div>
+        <div class="interpretation">
+            <h3>Interpretation</h3>
+            <p>The time series forecasting model provides predictions for future compost production based on historical patterns. The model's performance metrics indicate the accuracy of these predictions, with lower values suggesting better forecasting capability. These forecasts can be used for production capacity planning and resource allocation.</p>
+            <p>With an RMSE of 24.7454 pounds, stakeholders can expect predictions to be within approximately ±49.4908 pounds of actual values with 95% confidence. This level of accuracy is sufficient for operational planning.</p>
+        </div>
+        <h2>2. Yield Prediction Model Evaluation</h2>
+        <div class="metric">
+            <h3>Performance Metrics</h3>
+            <table>
+                <tr><th>Metric</th><th>Value</th><th>Interpretation</th></tr>
+            </table>
+        </div>
+        <div class="visualization">
+            <h3>Feature Importance for Yield Prediction</h3>
+            <img src="regression_feature_importance.png" alt="Regression Feature Importance">
+            <p>Relative importance of different features in predicting compost yield, helping identify the key factors influencing production.</p>
+        </div>
+        <div class="interpretation">
+            <h3>Interpretation</h3>
+            <p>The regression model predicts compost yield based on various input features. The feature importance visualization highlights which factors have the most significant impact on yield, providing insights for optimization.</p>
+        </div>
+        <h2>3. Efficiency Classification Model Evaluation</h2>
+        <div class="metric">
+            <h3>Performance Metrics</h3>
+            <table>
+                <tr><th>Metric</th><th>Value</th><th>Interpretation</th></tr>
+                <tr><td>Accuracy</td><td class="metric-value">0.4880</td><td>Proportion of correctly classified instances. Values closer to 1 indicate better performance.</td></tr>
+                <tr><td>Precision</td><td class="metric-value">0.4697</td><td>Proportion of true positives among instances predicted as positive. Measures model's ability to avoid false positives.</td></tr>
+                <tr><td>Recall</td><td class="metric-value">0.5167</td><td>Proportion of true positives among actual positive instances. Measures model's ability to find all positive instances.</td></tr>
+                <tr><td>F1 Score</td><td class="metric-value">0.4921</td><td>Harmonic mean of precision and recall. Balances the trade-off between precision and recall.</td></tr>
+            </table>
+        </div>
+        <div class="visualization">
+            <h3>Classification Confusion Matrix</h3>
+            <img src="classification_confusion_matrix.png" alt="Classification Confusion Matrix">
+            <p>Visualization of model predictions vs. actual classes, showing true positives, false positives, true negatives, and false negatives.</p>
+        </div>
+        <div class="visualization">
+            <h3>Feature Importance for Classification</h3>
+            <img src="classification_feature_importance.png" alt="Classification Feature Importance">
+            <p>Relative importance of different features in classifying collection site efficiency, helping identify key factors for site performance.</p>
+        </div>
+        <div class="interpretation">
+            <h3>Interpretation</h3>
+            <p>The classification model categorizes collection sites based on their efficiency. This categorization helps identify high-performing and underperforming sites, enabling targeted improvement strategies.</p>
+            <p>With an accuracy of 0.4880 and F1 score of 0.4921, the model demonstrates fair performance in classifying site efficiency. This level of accuracy can somewhat support performance improvement targeting.</p>
+        </div>
+        <h2>4. Overall Conclusions and Recommendations</h2>
+        <div class="conclusion">
+            <h3>Summary of Model Performance</h3>
+            <p>The predictive models developed for the food waste analysis project demonstrate the ability to forecast compost production, predict yield based on various factors, and classify collection sites by efficiency. These models provide valuable insights for operational planning and optimization.</p>
+            <h3>Recommendations</h3>
+            <ol>
+                <li><strong>Production Planning:</strong> Use the time series forecasting model to anticipate future compost production levels and plan resource allocation accordingly.</li>
+                <li><strong>Collection Strategy:</strong> Focus on the key features identified in the regression model to optimize compost yield from collection efforts.</li>
+                <li><strong>Site Improvement:</strong> Target underperforming sites identified by the classification model for process improvements and best practice sharing.</li>
+                <li><strong>Data Collection:</strong> Continue collecting high-quality data to refine and improve model performance over time.</li>
+                <li><strong>Model Monitoring:</strong> Regularly evaluate model performance against new data to ensure continued accuracy and relevance.</li>
+            </ol>
+        </div>
+        <h2>5. Next Steps</h2>
+        <div class="interpretation">
+            <p>To further enhance the predictive capabilities and operational impact of these models, consider the following next steps:</p>
+            <ol>
+                <li>Implement the models in a production environment with regular retraining schedules.</li>
+                <li>Develop a dashboard for real-time monitoring of key performance indicators.</li>
+                <li>Conduct A/B testing of operational changes suggested by the models.</li>
+                <li>Explore advanced modeling techniques such as ensemble methods or deep learning for potentially improved performance.</li>
+                <li>Integrate additional data sources such as weather patterns or seasonal events that may impact collection and processing.</li>
+            </ol>
+        </div>
+        <div class="footer">
+            <p>Food Waste Analysis Project - Model Evaluation Report</p>
+            <p>Generated on 2025-05-15 using automated evaluation tools</p>
+        </div>
+    </div>
+</body>
+</html>

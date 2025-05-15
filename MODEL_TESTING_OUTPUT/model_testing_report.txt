@@ -1,0 +1,170 @@
+
+Executive Summary
+=================
+Food Waste Analysis Model Testing Report
+This report contains comprehensive testing results for three predictive models:
+1. Time Series Forecasting (ARIMA)
+2. Compost Yield Prediction (Random Forest Regression)
+3. Efficiency Classification (Random Forest Classification)
+
+Test Results
+============
+Time Series Model Testing
+Stationarity Test (Augmented Dickey-Fuller)
+ADF Statistic: -11.8468
+p-value: 0.0000
+Critical Values:
+   1%: -3.4363
+   5%: -2.8642
+   10%: -2.5682
+Stationary: True
+
+ARIMA Parameter Optimization
+Total models tested: 8
+Best model parameters (p,d,q): (1, 1, 1)
+Best model AIC: 7920.3713
+
+Top 5 Models:
+  order         aic         bic       mae         mse      rmse
+(1,1,1) 7920.371343 7934.748376 30.423598 1521.519059 39.006654
+(1,0,1) 7991.095481 8010.269345 46.300904 3416.009651 58.446639
+(1,0,0) 8016.702126 8031.082525 46.342201 3425.456575 58.527400
+(0,1,1) 8118.347848 8127.932537 36.743290 2398.261813 48.972051
+(0,1,0) 8120.291105 8125.083449 36.919643 2416.553571 49.158454
+Note: Could not create AIC visualization: name 'plt' is not defined
+
+Best Model Performance:
+Mean Absolute Error: 20.6615
+Mean Squared Error: 612.3347
+Root Mean Squared Error: 24.7454
+
+Test Results
+============
+Regression Model Testing
+
+Fold 1 Results:
+MSE: 5.9462
+MAE: 0.9970
+R²: 0.9891
+Explained Variance: 0.9892
+
+Fold 2 Results:
+MSE: 1.6313
+MAE: 0.5779
+R²: 0.9973
+Explained Variance: 0.9973
+
+Fold 3 Results:
+MSE: 0.1408
+MAE: 0.2167
+R²: 0.9998
+Explained Variance: 0.9998
+
+Fold 4 Results:
+MSE: 0.1315
+MAE: 0.1928
+R²: 0.9998
+Explained Variance: 0.9998
+
+Fold 5 Results:
+MSE: 0.0848
+MAE: 0.1586
+R²: 0.9999
+Explained Variance: 0.9999
+
+Average Cross-Validation Results:
+MSE: 1.5869
+RMSE: 1.2597
+MAE: 0.4286
+R²: 0.9972
+Explained Variance: 0.9972
+
+Feature Importance:
+lbs_collected: 0.9988
+month: 0.0009
+day_of_week: 0.0003
+
+Final Model Performance (on all data):
+MSE: 0.0226
+RMSE: 0.1503
+MAE: 0.0650
+R²: 1.0000
+Explained Variance: 1.0000
+
+Test Results
+============
+Classification Model Testing
+Efficiency threshold: 0.0999
+Class distribution:
+  Low efficiency (0): 311
+  High efficiency (1): 311
+
+Fold 1 Results:
+Accuracy: 0.4880
+Precision: 0.4697
+Recall: 0.5167
+F1 Score: 0.4921
+
+Fold 2 Results:
+Accuracy: 0.5200
+Precision: 0.5556
+Recall: 0.5224
+F1 Score: 0.5385
+
+Fold 3 Results:
+Accuracy: 0.5161
+Precision: 0.5319
+Recall: 0.3968
+F1 Score: 0.4545
+
+Fold 4 Results:
+Accuracy: 0.4516
+Precision: 0.4462
+Recall: 0.4754
+F1 Score: 0.4603
+
+Fold 5 Results:
+Accuracy: 0.5242
+Precision: 0.5072
+Recall: 0.5833
+F1 Score: 0.5426
+
+Average Cross-Validation Results:
+Accuracy: 0.5000
+Precision: 0.5021
+Recall: 0.4989
+F1 Score: 0.4976
+
+Feature Importance:
+lbs_collected: 0.7580
+month: 0.1791
+day_of_week: 0.0628
+
+Statistical Testing:
+
+Statistical Comparison of Efficiency Between Sites:
+T-statistic: 0.0757
+p-value: 0.9397
+Significant difference: False
+
+Comparative Analysis
+====================
+Model Comparison
+
+Time Series vs Regression for Prediction:
+Time series RMSE: 24.74539791463192
+Regression RMSE: 1.259730206899381
+
+Classification Performance:
+Accuracy: 0.5000
+F1 Score: 0.4976
+
+Conclusion
+==========
+
+Recommendations:
+1. For forecasting future compost production, use the ARIMA model with optimal parameters.
+2. For estimating compost yield from collection volume, use the Random Forest regression model.
+3. For classifying collection efficiency, use the Random Forest classification model.
+
+Testing completed successfully.
